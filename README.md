@@ -65,7 +65,7 @@ Pipeline de dados com extração, transformação e análise.
 <table>
 <tr>
   <td align="center">Python<br><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
-  <td align="center">SQL<br><img src="https://skillicons.dev/icons?i=mysql" width="50"/></td>
+  <td align="center">SQL<br><img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="50"/></td>
 </tr>
 </table>
 
@@ -107,7 +107,7 @@ Pipeline de dados com extração, transformação e análise.
 <table>
 <tr>
   <td align="center">Power BI<br><img src="https://img.icons8.com/color/48/power-bi.png" width="50"/></td>
-  <td align="center">Streamlit<br><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="70"/></td>
+  <td align="center">Streamlit<br><img src="https://img.icons8.com/color/48/streamlit.png" width="70"/></td>
   <td align="center">Excel<br><img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50"/></td>
 </tr>
 </table>
