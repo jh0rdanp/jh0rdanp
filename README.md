@@ -73,44 +73,68 @@ Pipeline de dados com extração, transformação e análise.
 ---
 
 ### 🗄️ Banco de Dados e Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-</p>
+
+<table>
+  <table style="border-collapse: collapse;">
+
+<tr>
+  <td align="center">SQL Server<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/></td>
+  <td align="center">SQLite<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/></td>
+  <td align="center">Azure<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/></td>
+</tr>
+</table>
+
 
 ---
 
 ### 📊 Análise e Extração de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="50"/>
-</p>
+
+<table>
+  <table style="border-collapse: collapse;">
+
+<tr>
+  <td align="center">Pandas<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/></td>
+  <td align="center">NumPy<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/></td>
+  <td align="center">Scikit-Learn<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/></td>
+  <td align="center">Jupyter<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/></td>
+  <td align="center">Plotly<br><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" width="50"/></td>
+  <td align="center">Selenium<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/></td>
+  <td align="center">Requests<br><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="50"/></td>
+</tr>
+</table>
+
 
 ---
 
 ### 📈 Visualização de Dados
-<p>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="50"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/>
-</p>
+
+<table>
+  <table style="border-collapse: collapse;">
+
+<tr>
+  <td align="center">Power BI<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/></td>
+  <td align="center">Streamlit<br><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="70"/></td>
+  <td align="center">Excel<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/></td>
+</tr>
+</table>
+
 
 ---
 
 ### 🛠️ Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-</p>
+
+<table>
+  <table style="border-collapse: collapse;">
+
+<tr>
+  <td align="center">PyCharm<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/></td>
+  <td align="center">VS Code<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/></td>
+  <td align="center">Colab<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="50"/></td>
+  <td align="center">Kaggle<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/></td>
+  <td align="center">GitHub<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
+</tr>
+</table>
+
 
 
 ---
