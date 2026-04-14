@@ -143,5 +143,3 @@ Pipeline de dados com extração, transformação e análise.
 </p>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jh0rdanp&theme=tokyo-night"/>
-
