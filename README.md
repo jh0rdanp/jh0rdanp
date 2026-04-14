@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👨‍💻 Jhordan Pessoa
 
-<!--
-**jh0rdanp/jh0rdanp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Dados | Python | SQL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou Analista de Dados com foco em transformar dados em insights através de análise, visualização e automação.
+
+- 📊 Python (Pandas, NumPy, Plotly)
+- 🧠 SQL (SQL Server, SQLite)
+- 📈 Dashboards com Streamlit
+
+---
+
+## 🧠 Competências Técnicas
+
+### 💻 Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sqlite" />
+</p>
+
+---
+
+### 🗄️ Banco de Dados e Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,azure" />
+</p>
+
+---
+
+### 📊 Análise de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Jupyter  
+- Plotly  
+- Selenium  
+
+---
+
+### 📊 Visualização de Dados
+- Power BI  
+- Streamlit  
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/jhordan-pessoa-9883201b1/
+- Email: jhordanp2001@gmail.com
+
