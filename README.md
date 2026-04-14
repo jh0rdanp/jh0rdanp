@@ -123,7 +123,7 @@ Pipeline de dados com extração, transformação e análise.
   <td align="center">VS Code<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/></td>
   <td align="center">Colab<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="50"/></td>
   <td align="center">Kaggle<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/></td>
-  <td align="center">GitHub<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></td>
+  <td align="center">GitHub<br><img src="https://skillicons.dev/icons?i=github" width="50"/></td>
 </tr>
 </table>
 
