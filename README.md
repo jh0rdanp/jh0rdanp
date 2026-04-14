@@ -134,9 +134,10 @@ Pipeline de dados com extração, transformação e análise.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jh0rdanp&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0rdanp&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jh0rdanp&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0rdanp&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
 
 ---
 
