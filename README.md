@@ -92,7 +92,7 @@ Pipeline de dados com extração, transformação e análise.
 
 ### 📈 Visualização de Dados
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg](https://img.icons8.com/color/48/power-bi.png)" width="50"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/>
 </p>
