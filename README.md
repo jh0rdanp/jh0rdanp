@@ -61,10 +61,14 @@ Pipeline de dados com extração, transformação e análise.
 ## 🖥️ Competências Técnicas
 
 ### 💻 Linguagens
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+
+<table>
+<tr>
+  <td align="center">Python<br><img src="https://skillicons.dev/icons?i=python" width="50"/></td>
+  <td align="center">SQL<br><img src="https://skillicons.dev/icons?i=mysql" width="50"/></td>
+</tr>
+</table>
+
 
 ---
 
