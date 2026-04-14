@@ -89,13 +89,13 @@ Pipeline de dados com extração, transformação e análise.
 
 <table>
 <tr>
-  <td align="center">Pandas<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/></td>
+  <td align="center">Pandas<br><img src="https://devicon-website.vercel.app/api/pandas/original.svg?color=%23EB8610" width="50"/></td>
   <td align="center">NumPy<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/></td>
   <td align="center">Scikit-Learn<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/></td>
   <td align="center">Jupyter<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/></td>
-  <td align="center">Plotly<br><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" width="50"/></td>
+  <td align="center">Plotly<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="50"/></td>
   <td align="center">Selenium<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/></td>
-  <td align="center">Requests<br><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="50"/></td>
+  <td align="center">Requests<br><img src="https://private-user-images.githubusercontent.com/129557544/523909448-40ffa70e-d974-457f-9d97-58e969844ca1.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYxNDQ5NzksIm5iZiI6MTc3NjE0NDY3OSwicGF0aCI6Ii8xMjk1NTc1NDQvNTIzOTA5NDQ4LTQwZmZhNzBlLWQ5NzQtNDU3Zi05ZDk3LTU4ZTk2OTg0NGNhMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxNFQwNTMxMTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYzNjMzZiYmZjODhmOWZiZTIwNTMwOGIyY2YyNDg4MGU2OGVmNmU3NmZjOGJjZGVhYzQ4YjBhOWQxOGU3NDk3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.A7eEckD_QdK_SQDW3sPcjwRHPdMZzEPdb3MsDpUjoe0" width="50"/></td>
 </tr>
 </table>
 
