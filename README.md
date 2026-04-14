@@ -142,7 +142,7 @@ Pipeline de dados com extração, transformação e análise.
 
 ## 💬 Contato
 
-- 💼 LinkedIn: [SEU LINK  ](https://www.linkedin.com/in/jhordan-pessoa-9883201b1/)
+- 💼 LinkedIn: [Linkedin  ](https://www.linkedin.com/in/jhordan-pessoa-9883201b1/)
 - 📧 Email: jhordanp2001@gmail.com
 
 ---
