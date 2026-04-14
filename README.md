@@ -1,4 +1,4 @@
-<h1 align="center">Jhordan Pessoa 👋</h1>
+<h1 align="center">Jhordan P. 👋</h1>
 
 <p align="center">
   Analista de Dados | Python | SQL | Data Visualization
