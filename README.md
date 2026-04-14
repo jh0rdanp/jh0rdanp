@@ -58,37 +58,56 @@ Pipeline de dados com extração, transformação e análise.
 
 ---
 
-## 🧠 Competências Técnicas
+## 🖥️ Competências Técnicas
 
 ### 💻 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sqlite" />
-</p>
-
----
-
-### 🗄️ Banco de Dados
-<p>
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- SQL Server  
-- SQLite  
+---
+
+### 🗄️ Banco de Dados e Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+</p>
 
 ---
 
-### 📊 Análise de Dados
-- Pandas  
-- NumPy  
-- Jupyter Notebook  
-- Limpeza e transformação de dados  
+### 📊 Análise e Extração de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/plotly.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="50"/>
+</p>
 
 ---
 
 ### 📈 Visualização de Dados
-- Plotly  
-- Streamlit  
-- Power BI  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/>
+</p>
+
+---
+
+### 🛠️ Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+</p>
+
 
 ---
 
