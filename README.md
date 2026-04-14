@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Transformando dados em insights e decisões 📊
+  Desenvolvendo projetos em dados e evoluindo na prática todos os dias 🚀
 </p>
 
 ---
