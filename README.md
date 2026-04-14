@@ -60,6 +60,7 @@ Pipeline de dados com extração, transformação e análise.
 
 ## 🖥️ Competências Técnicas
 
+
 ### 💻 Linguagens
 
 <table>
