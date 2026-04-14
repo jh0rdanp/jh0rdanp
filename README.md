@@ -75,8 +75,6 @@ Pipeline de dados com extração, transformação e análise.
 ### 🗄️ Banco de Dados e Cloud
 
 <table>
-  <table style="border-collapse: collapse;">
-
 <tr>
   <td align="center">SQL Server<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/></td>
   <td align="center">SQLite<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/></td>
@@ -90,8 +88,6 @@ Pipeline de dados com extração, transformação e análise.
 ### 📊 Análise e Extração de Dados
 
 <table>
-  <table style="border-collapse: collapse;">
-
 <tr>
   <td align="center">Pandas<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/></td>
   <td align="center">NumPy<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/></td>
@@ -109,8 +105,6 @@ Pipeline de dados com extração, transformação e análise.
 ### 📈 Visualização de Dados
 
 <table>
-  <table style="border-collapse: collapse;">
-
 <tr>
   <td align="center">Power BI<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/></td>
   <td align="center">Streamlit<br><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="70"/></td>
@@ -124,8 +118,6 @@ Pipeline de dados com extração, transformação e análise.
 ### 🛠️ Ferramentas
 
 <table>
-  <table style="border-collapse: collapse;">
-
 <tr>
   <td align="center">PyCharm<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/></td>
   <td align="center">VS Code<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/></td>
