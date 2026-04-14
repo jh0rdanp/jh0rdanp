@@ -38,7 +38,7 @@ Dashboard interativo desenvolvido com Streamlit para análise de salários na á
 https://dash-salarios-area-dados.streamlit.app/
 
 👉 **Repositório:**  
-hhttps://github.com/jh0rdanp/data-salaries-analysis-dashboard
+https://github.com/jh0rdanp/data-salaries-analysis-dashboard
 
 ---
 
